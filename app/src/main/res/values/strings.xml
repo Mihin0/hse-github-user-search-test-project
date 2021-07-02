@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github user search</string>
+    <plurals name="numberOfRepositories">
+        <item quantity="one">%d repository</item>
+        <item quantity="other">%d repositories</item>
+    </plurals>
+
+</resources>
